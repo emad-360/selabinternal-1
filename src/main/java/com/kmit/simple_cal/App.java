@@ -8,7 +8,7 @@ public class App {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Simple Calculator");
+        System.out.println("Simple Calculator by 663D");
 
         System.out.print("Enter first number: ");
         double num1 = sc.nextDouble();
